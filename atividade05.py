@@ -1,0 +1,7 @@
+metro = float(input("quantidade em metros:"))
+cm = (metro*100)
+print("a quantidade em centimentros sao")
+print(cm)
+mm = (metro*1000)
+print("a quantidade em metros sao")
+print(mm)
